@@ -1,7 +1,7 @@
 # ✔️ Flutter to do App "To Do List"
 
 A Flutter app based on the design of the To Do App, created by *Rudi Hartono*, see more on: [Uplabs](https://www.uplabs.com/posts/to-do-list-app-freebie-kit).
-
+<!-- 
 ## Getting Started 🚀
 
 ```shell
@@ -57,4 +57,4 @@ Or the following repo's:
 - An iOS focused Flutter App: [iSubscribe](https://github.com/LiveLikeCounter/Flutter-iSubscribe)
 - A Package Manager App made with Flutter: [Package Manager](https://github.com/LiveLikeCounter/Flutter-Package-Manager)
 - A Food Delivery Flutter App: [Food Delivery](https://github.com/LiveLikeCounter/Flutter-Food-Delivery)
-- A Paypal Redesign made in Flutter: [Paypal Redesign](https://github.com/LiveLikeCounter/Flutter-Paypal-Redesign)
+- A Paypal Redesign made in Flutter: [Paypal Redesign](https://github.com/LiveLikeCounter/Flutter-Paypal-Redesign) -->
